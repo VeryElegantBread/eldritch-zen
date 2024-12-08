@@ -10,10 +10,16 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
 <!-- Your screenshot should go here -->
-<img src="screenshot.png" alt="Screenshot"/><br/>
+<img src="screenshot-normal.png" alt="Screenshot (normal)"/><br/>
+
+<img src="screenshot-darker.png" alt="Screenshot (darker)"/><br/>
+
+<img src="screenshot-darkest.png" alt="Screenshot (darkest)"/><br/>
 
 ### Installation
-1. Any instructions on how to install here
+1. Locate your Zen configuration directory.
+2. go to the config directory/profiles/your profile/chrome (you might need to make one.)
+3. Download and place the userChrome.css and userContent.css files from your preference of [normal](/normal/), [darker](/darkest/), or [darkest](/darkest/) into the chrome folder.
 
 <!-- If you want to provide install from source options, you can use the following template: -->
 <!-- ### Installation From Source -->
